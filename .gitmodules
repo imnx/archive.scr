@@ -1,3 +1,6 @@
 [submodule "envyhax0r.scr"]
 	path = envyhax0r.scr
 	url = http://github.com/imnx/envyhax0r.scr
+[submodule "create_ap"]
+	path = create_ap
+	url = https://imnx@github.com/imnx/create_ap
